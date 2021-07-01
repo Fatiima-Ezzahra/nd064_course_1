@@ -1,0 +1,9 @@
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:app:1625160057.001739, / endpoint was reached
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2021 18:20:57] "GET / HTTP/1.1" 200 -
+INFO:app:1625160069.164533, /status endpoint was reached
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2021 18:21:09] "GET /status HTTP/1.1" 200 -
+INFO:app:1625160076.018025, /metrics endpoint was reached
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2021 18:21:16] "GET /metrics HTTP/1.1" 200 -
+INFO:app:1625160083.162993, /status endpoint was reached
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2021 18:21:23] "GET /status HTTP/1.1" 200 -
